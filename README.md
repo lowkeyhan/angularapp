@@ -1,5 +1,8 @@
 # angularapp
-## Directory Layout
+## 说明
+    偶得一个比较好的纯净AngularJs app的种子出处：https://github.com/glitchtank/angular-seed-master。
+    下载下来正在研究中，并在此基础上编写学习中的例子
+## 文件列表说明（研究过程中会慢慢改成中文说明）
 
     app/                --> all of the files to be used in production
       css/              --> css files
